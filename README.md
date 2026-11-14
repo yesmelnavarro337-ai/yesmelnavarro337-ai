@@ -248,6 +248,34 @@ con panel de administración y backend robusto.
 
 <br/>
 
+<!-- ═══════════════════════ ACTIVIDAD EN GITHUB ═══════════════════════ -->
+<!-- Si alguna tarjeta de esta sección no carga, borra desde aquí hasta "FIN ACTIVIDAD" -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-ACTIVIDAD%20EN%20GITHUB-6366F1?style=for-the-badge" alt="Actividad en GitHub"/>
+  <br/><br/>
+  <sub>Mi progreso y los lenguajes que más uso</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yesmelnavarro337-ai&show_icons=true&hide_border=true&bg_color=0B1020&title_color=3B82F6&icon_color=8B5CF6&text_color=BFD4FF&count_private=true&locale=es" alt="Estadísticas de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmelnavarro337-ai&layout=compact&hide_border=true&bg_color=0B1020&title_color=3B82F6&text_color=BFD4FF&langs_count=8&locale=es" alt="Lenguajes más usados"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=yesmelnavarro337-ai&background=0B1020&ring=3B82F6&fire=F59E0B&currStreakLabel=BFD4FF&sideLabels=BFD4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7AA7FF&hide_border=true" alt="Racha de contribuciones"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yesmelnavarro337-ai&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="Trofeos de GitHub"/>
+
+</div>
+<!-- FIN ACTIVIDAD -->
+
+<br/>
+
 <!-- ═══════════════════════ CONTACTO ═══════════════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/-HABLEMOS-25D366?style=for-the-badge" alt="Hablemos"/>
@@ -261,17 +289,17 @@ con panel de administración y backend robusto.
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://wa.me/573024630390"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <br/><br/>
 <sub>La forma más rápida<br/>de escribirme</sub>
 </td>
 <td align="center" width="25%">
-<a href="mailto:yesmelnavarro337@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <br/><br/>
 <sub>Para propuestas<br/>y cotizaciones</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/yesmel-navarro-42430444b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/><br/>
 <sub>Conectemos<br/>profesionalmente</sub>
 </td>
