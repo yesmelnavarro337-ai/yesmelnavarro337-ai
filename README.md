@@ -83,12 +83,13 @@ Sistema full-stack con panel de administración y backend robusto.
 
 <!-- Si alguna tarjeta no carga, borra desde aquí hasta "FIN GITHUB" -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yesmelnavarro337-ai&theme=dark&show_icons=true&count_private=true&locale=es" alt="Estadísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmelnavarro337-ai&theme=dark&layout=compact&langs_count=8&locale=es" alt="Lenguajes"/>
+  <img src="https://streak-stats.demolab.com?user=yesmelnavarro337-ai&theme=dark" alt="Racha"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yesmelnavarro337-ai&theme=dark" alt="Racha"/>
+  <img src="https://img.shields.io/github/followers/yesmelnavarro337-ai?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717&color=3B82F6" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/yesmelnavarro337-ai?style=for-the-badge&logo=github&label=Stars&labelColor=181717&color=F59E0B" alt="Stars"/>
+  <img src="https://img.shields.io/github/created-at/yesmelnavarro337-ai?style=for-the-badge&logo=github&label=En%20GitHub%20desde&labelColor=181717&color=8B5CF6" alt="En GitHub desde"/>
 </p>
 <!-- FIN GITHUB -->
 
