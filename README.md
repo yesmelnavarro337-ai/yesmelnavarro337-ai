@@ -32,7 +32,7 @@
 
 📍 Valledupar, Colombia 🇨🇴
 
-📫 Contacto: **tu-correo@gmail.com**
+📫 Contacto: **yesmeelnavarro337@gmail.com**
 
 <br>
 
