@@ -1,4 +1,5 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
+<!-- ═══════════════════════ HERO (aprobado) ═══════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,40:0F1630,75:1E3A8A,100:3B82F6&height=260&section=header&text=Yesmel%20Navarro&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Desarrollo%20Full-Stack&descSize=19&descColor=BFD4FF&descAlignY=64&animation=fadeIn" width="100%" alt="Yesmel Navarro"/>
@@ -24,17 +25,15 @@
 <br/>
 
 <!-- ═══════════════════════ SOBRE MÍ ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 👤 Sobre mí
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1630,50:1E3A8A,100:3B82F6&height=110&section=header&text=Sobre%20m%C3%AD&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Sobre mí"/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-Soy **estudiante de cuarto semestre de Ingeniería de Sistemas en la UNAD** y **aprendiz de Análisis y Desarrollo de Software en el SENA**. Combino la base teórica de la ingeniería con la práctica del desarrollo real.
+Soy **Yesmel Jose De La Torre Navarro**, **estudiante de cuarto semestre de Ingeniería de Sistemas en la UNAD** y **aprendiz de Análisis y Desarrollo de Software en el SENA**. Combino la base teórica de la ingeniería con la práctica del desarrollo real.
 
-Además trabajo como **desarrollador freelance** para clientes de Colombia, construyendo desde sitios web hasta sistemas completos con backend, base de datos e interfaz.
+Trabajo como **desarrollador freelance** para clientes de Colombia, construyendo desde sitios web hasta sistemas completos con backend, base de datos e interfaz.
 
 Me interesa el software **bien estructurado**: arquitectura limpia, entregas por fases y código fácil de mantener.
 
@@ -42,13 +41,13 @@ Me interesa el software **bien estructurado**: arquitectura limpia, entregas por
 <td width="42%" valign="top">
 
 ```yaml
-nombre:     Yesmel Navarro
-ubicación:  Valledupar, Colombia 🇨🇴
+nombre:      Yesmel Jose De La Torre Navarro
+ubicación:   Valledupar, Colombia 🇨🇴
 universidad: UNAD · Ing. de Sistemas
-semestre:   4.º
-técnico:    ADSO · SENA
-modalidad:  Freelance / Remoto
-enfoque:    Web · API · Móvil
+semestre:    4.º
+técnico:     ADSO · SENA
+modalidad:   Freelance / Remoto
+enfoque:     Web · API · Móvil
 ```
 
 </td>
@@ -56,24 +55,40 @@ enfoque:    Web · API · Móvil
 </table>
 
 <!-- ═══════════════════════ FORMACIÓN ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 🎓 Formación
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F1630&height=110&section=header&text=Formaci%C3%B3n&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Formación"/>
 
 <div align="center">
 
-| | Institución | Programa | Estado |
-|:---:|:---|:---|:---:|
-| 🏛️ | **UNAD** · Universidad Nacional Abierta y a Distancia | Ingeniería de Sistemas | 🟢 4.º semestre |
-| 🛠️ | **SENA** · Valledupar | Análisis y Desarrollo de Software (ADSO) | 🟢 En curso |
-| 🏫 | **I.E. Prudencia Daza** · Valledupar | Bachiller | ✅ Graduado |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/UNAD-0B1020?style=for-the-badge&labelColor=0B1020&color=3B82F6" alt="UNAD"/>
+<br/><br/>
+<b>Ingeniería de Sistemas</b><br/>
+<sub>Universidad Nacional Abierta y a Distancia</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_4.º_semestre-0B1020?style=flat-square&labelColor=0B1020&color=22C55E" alt="estado"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SENA-0B1020?style=for-the-badge&labelColor=0B1020&color=22C55E" alt="SENA"/>
+<br/><br/>
+<b>Análisis y Desarrollo de Software</b><br/>
+<sub>ADSO · Valledupar</sub><br/><br/>
+<img src="https://img.shields.io/badge/●_En_curso-0B1020?style=flat-square&labelColor=0B1020&color=22C55E" alt="estado"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/BACHILLER-0B1020?style=for-the-badge&labelColor=0B1020&color=8B5CF6" alt="Bachiller"/>
+<br/><br/>
+<b>I.E. Prudencia Daza</b><br/>
+<sub>Valledupar, Cesar</sub><br/><br/>
+<img src="https://img.shields.io/badge/✓_Graduado-0B1020?style=flat-square&labelColor=0B1020&color=8B5CF6" alt="estado"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <!-- ═══════════════════════ QUÉ HAGO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 🎯 Qué hago
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1630,50:1E3A8A,100:3B82F6&height=110&section=header&text=Qu%C3%A9%20hago&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Qué hago"/>
 
 <table>
 <tr>
@@ -101,9 +116,7 @@ enfoque:    Web · API · Móvil
 </table>
 
 <!-- ═══════════════════════ STACK ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 🧰 Stack tecnológico
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F1630&height=110&section=header&text=Stack%20tecnol%C3%B3gico&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Stack tecnológico"/>
 
 <div align="center">
 
@@ -118,9 +131,7 @@ enfoque:    Web · API · Móvil
 </div>
 
 <!-- ═══════════════════════ PROYECTOS ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 🚀 Proyectos destacados
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1630,50:1E3A8A,100:3B82F6&height=110&section=header&text=Proyectos%20destacados&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Proyectos destacados"/>
 
 <table>
 <tr>
@@ -131,9 +142,9 @@ enfoque:    Web · API · Móvil
 
 App móvil para administrar vehículos y operaciones de una flota, con backend propio.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </td>
 <td width="50%" valign="top">
@@ -143,31 +154,40 @@ App móvil para administrar vehículos y operaciones de una flota, con backend p
 
 Sistema full-stack con panel de administración y backend robusto para gestionar la marca.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 </td>
 </tr>
 </table>
 
 <!-- ═══════════════════════ PROCESO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F1630&height=110&section=header&text=C%C3%B3mo%20trabajo&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Cómo trabajo"/>
 
-## 🧭 Cómo trabajo
-
-<div align="center">
-
-| 1️⃣ Análisis | 2️⃣ Diseño | 3️⃣ Desarrollo | 4️⃣ Entrega |
-|:---:|:---:|:---:|:---:|
-| Entender el problema y los requisitos | Arquitectura, base de datos y prototipos | Código limpio, por fases y revisado | Despliegue y acompañamiento |
-
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/01-An%C3%A1lisis-0B1020?style=for-the-badge&labelColor=3B82F6&color=0B1020" alt="01 Análisis"/><br/><br/>
+<sub>Entender el problema y los requisitos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/02-Dise%C3%B1o-0B1020?style=for-the-badge&labelColor=6366F1&color=0B1020" alt="02 Diseño"/><br/><br/>
+<sub>Arquitectura, base de datos y prototipos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/03-Desarrollo-0B1020?style=for-the-badge&labelColor=8B5CF6&color=0B1020" alt="03 Desarrollo"/><br/><br/>
+<sub>Código limpio, por fases y revisado</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/04-Entrega-0B1020?style=for-the-badge&labelColor=22C55E&color=0B1020" alt="04 Entrega"/><br/><br/>
+<sub>Despliegue y acompañamiento</sub>
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════ CONTACTO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=2&section=header" width="100%" alt=""/>
-
-## 📬 Hablemos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1630,50:1E3A8A,100:3B82F6&height=110&section=header&text=Hablemos&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Hablemos"/>
 
 <div align="center">
 
@@ -182,4 +202,5 @@ Sistema full-stack con panel de administración y backend robusto para gestionar
 
 </div>
 
+<!-- ═══════════════════════ FOOTER (aprobado) ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,45:1E3A8A,100:05070D&height=110&section=footer&reversal=false" width="100%" alt=""/>
