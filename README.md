@@ -30,7 +30,7 @@
 
 🧱 Me gusta el software bien estructurado: arquitectura limpia y entregas por fases
 
-📍 Valledupar, Colombia 🇨🇴
+📍 Valledupar, Colombia CO
 
 📫 Contacto: **yesmeelnavarro337@gmail.com**
 
