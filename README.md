@@ -32,80 +32,44 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### 👋 Hola, soy Yesmel
+<h2>👋 Hola, soy Yesmel</h2>
 
-Soy **estudiante de cuarto semestre de Ingeniería de Sistemas en la UNAD** y **aprendiz de Análisis y Desarrollo de Software en el SENA**.
+<p>
+Soy <b>estudiante de cuarto semestre de Ingeniería de Sistemas en la UNAD</b><br/>
+y <b>aprendiz de Análisis y Desarrollo de Software en el SENA</b>.
+</p>
 
-Trabajo como **desarrollador freelance** para clientes de Colombia, construyendo desde sitios web hasta sistemas completos con backend, base de datos e interfaz.
+<p>
+Como <b>desarrollador freelance</b> construyo soluciones completas para clientes de Colombia:<br/>
+desde sitios web hasta sistemas con <b>backend, base de datos e interfaz</b>,<br/>
+siempre con <b>arquitectura limpia</b> y entregas por fases.
+</p>
 
-> 💡 Me interesa el software **bien estructurado**: arquitectura limpia, entregas por fases y código fácil de mantener.
-
-<img src="https://img.shields.io/badge/Full--Stack-3B82F6?style=flat-square" alt="Full-Stack"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-8B5CF6?style=flat-square" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Web_·_API_·_M%C3%B3vil-22C55E?style=flat-square" alt="Web API Móvil"/>
-
-</td>
-<td width="50%" valign="top">
-
-```js
-const yesmel = {
-  nombre: "Yesmel Jose De La Torre Navarro",
-  ubicacion: "Valledupar, Colombia 🇨🇴",
-  estudia: [
-    "Ingeniería de Sistemas · UNAD (4.º sem)",
-    "ADSO · SENA",
-  ],
-  trabajo: "Desarrollador freelance",
-  stack: ["Next.js", "ASP.NET Core",
-          "Flutter", "SQL Server"],
-  enfoque: "Código limpio y por fases",
-  disponible: true,
-};
-```
+<p><i>✨ Me gusta el software bien estructurado, fácil de mantener y pensado para quien lo usa.</i></p>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════ FORMACIÓN ═══════════════════════ -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-FORMACI%C3%93N-8B5CF6?style=for-the-badge" alt="Formación"/>
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td align="center" width="33%">
-<h1>🏛️</h1>
-<img src="https://img.shields.io/badge/UNAD-3B82F6?style=for-the-badge" alt="UNAD"/>
-<br/><br/>
-<b>Ingeniería de Sistemas</b><br/>
-<sub>Universidad Nacional Abierta y a Distancia</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/●%204.º%20semestre-22C55E?style=flat-square" alt="Estado"/>
+<td align="center" width="25%">
+<b>🎓 UNAD</b><br/>
+<sub>Ingeniería de Sistemas<br/>4.º semestre</sub>
 </td>
-<td align="center" width="33%">
-<h1>🛠️</h1>
-<img src="https://img.shields.io/badge/SENA-22C55E?style=for-the-badge" alt="SENA"/>
-<br/><br/>
-<b>Análisis y Desarrollo de Software</b><br/>
-<sub>ADSO · Valledupar</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/●%20En%20curso-22C55E?style=flat-square" alt="Estado"/>
+<td align="center" width="25%">
+<b>🛠️ SENA</b><br/>
+<sub>Análisis y Desarrollo<br/>de Software (ADSO)</sub>
 </td>
-<td align="center" width="33%">
-<h1>🎒</h1>
-<img src="https://img.shields.io/badge/BACHILLER-8B5CF6?style=for-the-badge" alt="Bachiller"/>
-<br/><br/>
-<b>I.E. Prudencia Daza</b><br/>
-<sub>Valledupar, Cesar</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/✓%20Graduado-8B5CF6?style=flat-square" alt="Estado"/>
+<td align="center" width="25%">
+<b>💼 Freelance</b><br/>
+<sub>Web · API · Móvil<br/>para clientes en Colombia</sub>
+</td>
+<td align="center" width="25%">
+<b>📍 Valledupar</b><br/>
+<sub>Cesar,<br/>Colombia 🇨🇴</sub>
 </td>
 </tr>
 </table>
@@ -115,35 +79,57 @@ const yesmel = {
 <!-- ═══════════════════════ QUÉ HAGO ═══════════════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/-QU%C3%89%20HAGO-22C55E?style=for-the-badge" alt="Qué hago"/>
+  <br/><br/>
+  <sub>Soluciones de punta a punta: desde la idea hasta el despliegue</sub>
 </div>
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h1>🌐</h1>
-<img src="https://img.shields.io/badge/WEB-3B82F6?style=for-the-badge" alt="Web"/><br/><br/>
-<b>Sitios y plataformas</b><br/>
-<sub>Paneles de administración y sistemas a la medida</sub>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/01-WEB-3B82F6?style=for-the-badge" alt="Web"/>
+<h3>Sitios y plataformas</h3>
+<sub>Landing pages, paneles de administración y sistemas web a la medida del negocio.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=4" alt="web"/>
 </td>
-<td align="center" width="25%">
-<h1>⚙️</h1>
-<img src="https://img.shields.io/badge/BACKEND-512BD4?style=for-the-badge" alt="Backend"/><br/><br/>
-<b>APIs robustas</b><br/>
-<sub>ASP.NET Core, Clean Architecture, SQL Server y EF Core</sub>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/02-BACKEND-512BD4?style=for-the-badge" alt="Backend"/>
+<h3>APIs y backend</h3>
+<sub>APIs seguras con ASP.NET Core y Clean Architecture, listas para crecer.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&perline=4" alt="backend"/>
 </td>
-<td align="center" width="25%">
-<h1>📱</h1>
-<img src="https://img.shields.io/badge/M%C3%93VIL-02569B?style=for-the-badge" alt="Móvil"/><br/><br/>
-<b>Apps multiplataforma</b><br/>
-<sub>Flutter conectado a APIs propias</sub>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/03-M%C3%93VIL-02569B?style=for-the-badge" alt="Móvil"/>
+<h3>Apps móviles</h3>
+<sub>Aplicaciones multiplataforma con Flutter conectadas a APIs propias.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=4" alt="móvil"/>
 </td>
-<td align="center" width="25%">
-<h1>🎨</h1>
-<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge" alt="UI/UX"/><br/><br/>
-<b>Interfaz y diseño</b><br/>
-<sub>Prototipos en Figma pensados en la experiencia</sub>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/04-DATOS-22C55E?style=for-the-badge" alt="Datos"/>
+<h3>Bases de datos</h3>
+<sub>Modelado y consultas con SQL Server y EF Core Code First, PostgreSQL y Firebase.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&perline=4" alt="datos"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/05-UI%2FUX-F24E1E?style=for-the-badge" alt="UI/UX"/>
+<h3>Interfaz y diseño</h3>
+<sub>Prototipos en Figma y diseños limpios pensados en la experiencia del usuario.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,css,html&perline=4" alt="diseño"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/06-DESPLIEGUE-F59E0B?style=for-the-badge" alt="Despliegue"/>
+<h3>Entrega y publicación</h3>
+<sub>Publicación de proyectos en producción con control de versiones y buenas prácticas.</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vercel&perline=4" alt="despliegue"/>
 </td>
 </tr>
 </table>
@@ -153,30 +139,48 @@ const yesmel = {
 <!-- ═══════════════════════ STACK ═══════════════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/-STACK%20TECNOL%C3%93GICO-F59E0B?style=for-the-badge" alt="Stack tecnológico"/>
+  <br/><br/>
+  <sub>Las tecnologías con las que construyo</sub>
 </div>
 
 <br/>
 
 <table>
 <tr>
-<td width="22%" align="center"><img src="https://img.shields.io/badge/FRONTEND-3B82F6?style=for-the-badge" alt="Frontend"/></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=8" alt="frontend"/></td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/FRONTEND-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=4" alt="frontend"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/BACKEND-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&perline=4" alt="backend"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/BASES%20DE%20DATOS-22C55E?style=for-the-badge&logo=postgresql&logoColor=white" alt="Bases de datos"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase,mysql&perline=4" alt="datos"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/BACKEND-512BD4?style=for-the-badge" alt="Backend"/></td>
-<td><img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&perline=8" alt="backend"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/DATOS-22C55E?style=for-the-badge" alt="Datos"/></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,firebase,supabase,mysql&perline=8" alt="datos"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/M%C3%93VIL-02569B?style=for-the-badge" alt="Móvil"/></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" alt="móvil"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/TOOLS-F59E0B?style=for-the-badge" alt="Herramientas"/></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,netlify,vercel&perline=8" alt="herramientas"/></td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/M%C3%93VIL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Móvil"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=4" alt="móvil"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/DISE%C3%91O-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Diseño"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma&perline=4" alt="diseño"/>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/HERRAMIENTAS-F59E0B?style=for-the-badge&logo=git&logoColor=white" alt="Herramientas"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel&perline=3" alt="herramientas"/>
+</td>
 </tr>
 </table>
 
@@ -185,95 +189,106 @@ const yesmel = {
 <!-- ═══════════════════════ PROYECTOS ═══════════════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/-PROYECTOS%20DESTACADOS-EC4899?style=for-the-badge" alt="Proyectos destacados"/>
+  <br/><br/>
+  <sub>Algunos de los sistemas que he construido</sub>
 </div>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🏍️ Vroomly 2.0</h3>
-<p align="center"><b>Gestión de flotas desde el celular</b></p>
+<img src="https://img.shields.io/badge/APP%20M%C3%93VIL-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="App móvil"/>
 
-App móvil para administrar vehículos y operaciones de una flota, con backend propio.
+<h2>🏍️ Vroomly 2.0</h2>
+<p><b>Gestión de flotas desde el celular</b></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<p>
+Aplicación móvil para administrar vehículos y las operaciones de una flota,<br/>
+conectada a un backend propio.
 </p>
+
+<p align="left">
+&nbsp;&nbsp;✅ App multiplataforma en <b>Flutter</b><br/>
+&nbsp;&nbsp;✅ API REST en <b>ASP.NET Core</b><br/>
+&nbsp;&nbsp;✅ Datos en <b>SQL Server</b>
+</p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet&perline=4" alt="Tecnologías de Vroomly"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🌙 Maros Pijamas</h3>
-<p align="center"><b>Plataforma para marca de pijamas personalizadas</b></p>
+<img src="https://img.shields.io/badge/WEB%20FULL--STACK-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Web full-stack"/>
 
-Sistema full-stack con panel de administración y backend robusto para gestionar la marca.
+<h2>🌙 Maros Pijamas</h2>
+<p><b>Plataforma para una marca de pijamas personalizadas</b></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<p>
+Sistema full-stack para gestionar la marca,<br/>
+con panel de administración y backend robusto.
 </p>
+
+<p align="left">
+&nbsp;&nbsp;✅ Panel de administración en <b>Next.js</b><br/>
+&nbsp;&nbsp;✅ Backend en <b>ASP.NET Core</b><br/>
+&nbsp;&nbsp;🔜 Sitio público de la marca
+</p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,cs,dotnet&perline=5" alt="Tecnologías de Maros Pijamas"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════ PROCESO ═══════════════════════ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/-C%C3%93MO%20TRABAJO-6366F1?style=for-the-badge" alt="Cómo trabajo"/>
+<a href="https://github.com/yesmelnavarro337-ai?tab=repositories"><img src="https://img.shields.io/badge/Ver%20m%C3%A1s%20en%20GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=3B82F6" alt="Ver más en GitHub"/></a>
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h1>🔍</h1>
-<img src="https://img.shields.io/badge/01-AN%C3%81LISIS-3B82F6?style=for-the-badge" alt="Análisis"/><br/><br/>
-<sub>Entender el problema y los requisitos</sub>
-</td>
-<td align="center" width="25%">
-<h1>📐</h1>
-<img src="https://img.shields.io/badge/02-DISE%C3%91O-6366F1?style=for-the-badge" alt="Diseño"/><br/><br/>
-<sub>Arquitectura, base de datos y prototipos</sub>
-</td>
-<td align="center" width="25%">
-<h1>💻</h1>
-<img src="https://img.shields.io/badge/03-DESARROLLO-8B5CF6?style=for-the-badge" alt="Desarrollo"/><br/><br/>
-<sub>Código limpio, por fases y revisado</sub>
-</td>
-<td align="center" width="25%">
-<h1>🚀</h1>
-<img src="https://img.shields.io/badge/04-ENTREGA-22C55E?style=for-the-badge" alt="Entrega"/><br/><br/>
-<sub>Despliegue y acompañamiento</sub>
-</td>
-</tr>
-</table>
 
 <br/>
 
 <!-- ═══════════════════════ CONTACTO ═══════════════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/-HABLEMOS-25D366?style=for-the-badge" alt="Hablemos"/>
-
-<br/><br/>
-
-<a href="https://github.com/yesmelnavarro337-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<br/><br/>
-
-<sub>¿Tienes una idea o un proyecto en mente? Escríbeme y lo convertimos en software.</sub>
-
+  <br/><br/>
+  <b>¿Tienes una idea o un proyecto en mente?</b><br/>
+  <sub>Cuéntame qué necesitas y lo convertimos en software.</sub>
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://wa.me/573024630390"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<br/><br/>
+<sub>La forma más rápida<br/>de escribirme</sub>
+</td>
+<td align="center" width="25%">
+<a href="mailto:yesmelnavarro337@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<br/><br/>
+<sub>Para propuestas<br/>y cotizaciones</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/yesmel-navarro-42430444b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br/><br/>
+<sub>Conectemos<br/>profesionalmente</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/yesmelnavarro337-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br/><br/>
+<sub>Mi código<br/>y mis proyectos</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/●-Disponible%20para%20nuevos%20proyectos-0B1020?style=for-the-badge&labelColor=0B1020&color=22C55E" alt="Disponible"/>
+</div>
+
+<br/>
 
 <!-- ═══════════════════════ FOOTER (aprobado) ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,45:1E3A8A,100:05070D&height=110&section=footer&reversal=false" width="100%" alt=""/>
